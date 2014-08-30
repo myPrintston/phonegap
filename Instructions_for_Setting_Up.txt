@@ -1,0 +1,17 @@
+Install nodeJS
+
+Install phonegap
+
+Install cordova (sudo npm install -g cordova)
+
+Create a project using "cordova create MyPrintston com.myprintston.www MyPrintston"
+
+Install the JDK
+
+Install the Android SDK, and then use the Cordova command "cordova platform add android" in the MyPrintston folder
+
+Install ant
+
+On a mac, use the Cordova command "cordova platform add ios" in the MyPrintston folder after installing Cordova
+
+On a PC, use the Cordova command "cordova platform add wp7", "cordova platform add wp8", and "cordova platform add windows8" in the MyPrintston folder
