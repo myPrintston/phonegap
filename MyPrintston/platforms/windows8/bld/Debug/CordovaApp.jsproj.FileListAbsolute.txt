@@ -1,0 +1,17 @@
+F:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bin\Debug\resources.pri
+F:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bin\Debug\AppxManifest.xml
+F:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bin\Debug\CordovaApp.build.appxrecipe
+F:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bld\Debug\priconfig.xml
+F:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bld\Debug\priconfig.xml.intermediate
+F:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bld\Debug\layout.resfiles
+F:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bld\Debug\layout.resfiles.intermediate
+F:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bld\Debug\resources.resfiles
+F:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bld\Debug\resources.resfiles.intermediate
+F:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bld\Debug\pri.resfiles
+F:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bld\Debug\pri.resfiles.intermediate
+F:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bld\Debug\qualifiers.txt
+F:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bld\Debug\qualifiers.txt.intermediate
+F:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bld\Debug\ProjectArchitectures.txt
+f:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bld\Debug\package.map.txt
+f:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\bld\Debug\_pkginfo.txt

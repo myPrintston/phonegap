@@ -93,6 +93,21 @@ Powershell -ExecutionPolicy RemoteSigned Unblock-File '$(ProjectDir)\cordova\lib
         <Content Include="www\js\index.js" />
     </ItemGroup>
     <ItemGroup>
+        <Content Include="www\js\jquery.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\js\location.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\js\physicalobject.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\js\printer.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\js\queries.js" />
+    </ItemGroup>
+    <ItemGroup>
         <Content Include="www\res\.pgbomit" />
     </ItemGroup>
     <ItemGroup>
@@ -244,5 +259,8 @@ Powershell -ExecutionPolicy RemoteSigned Unblock-File '$(ProjectDir)\cordova\lib
     </ItemGroup>
     <ItemGroup>
         <Content Include="www\spec.html" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\test.html" />
     </ItemGroup>
 </Project>

@@ -1,0 +1,1 @@
+f:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\CordovaApp.jsproj;neutral
