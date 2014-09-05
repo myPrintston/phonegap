@@ -55,7 +55,7 @@
 "f:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\www\js\location.js" "www\js\location.js"
 "f:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\www\js\physicalobject.js" "www\js\physicalobject.js"
 "f:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\www\js\printer.js" "www\js\printer.js"
-"f:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\www\js\queries.js" "www\js\queries.js"
+"f:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\www\js\requests.js" "www\js\requests.js"
 "f:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\www\spec\helper.js" "www\spec\helper.js"
 "f:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\www\spec\index.js" "www\spec\index.js"
 "f:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\www\spec\lib\jasmine-1.2.0\jasmine-html.js" "www\spec\lib\jasmine-1.2.0\jasmine-html.js"

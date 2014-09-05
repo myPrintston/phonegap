@@ -14,7 +14,7 @@ www\js\jquery.js
 www\js\location.js
 www\js\physicalobject.js
 www\js\printer.js
-www\js\queries.js
+www\js\requests.js
 www\res\.pgbomit
 www\res\icon\android\icon-36-ldpi.png
 www\res\icon\android\icon-48-mdpi.png

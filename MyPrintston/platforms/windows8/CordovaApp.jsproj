@@ -105,7 +105,7 @@ Powershell -ExecutionPolicy RemoteSigned Unblock-File '$(ProjectDir)\cordova\lib
         <Content Include="www\js\printer.js" />
     </ItemGroup>
     <ItemGroup>
-        <Content Include="www\js\queries.js" />
+        <Content Include="www\js\requests.js" />
     </ItemGroup>
     <ItemGroup>
         <Content Include="www\res\.pgbomit" />

@@ -185,8 +185,8 @@
     <AppxPackagedFile Include="f:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\www\js\printer.js">
       <PackagePath>www\js\printer.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="f:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\www\js\queries.js">
-      <PackagePath>www\js\queries.js</PackagePath>
+    <AppxPackagedFile Include="f:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\www\js\requests.js">
+      <PackagePath>www\js\requests.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="f:\Dev\myPrintston\phonegap\MyPrintston\platforms\windows8\www\spec\helper.js">
       <PackagePath>www\spec\helper.js</PackagePath>
